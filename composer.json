@@ -36,6 +36,7 @@
         "sylius/promotion": "^1.0",
         "sylius/resource-bundle": "^1.8",
         "sylius/shipping-bundle": "^1.0",
+        "sylius/sylius": "^1.9 || ^2.1",
         "sylius/ui-bundle": "^1.0",
         "sylius/user": "^1.0",
         "symfony/config": "^5.4 || ^6.4",
